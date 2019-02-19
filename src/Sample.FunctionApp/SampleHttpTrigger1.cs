@@ -20,7 +20,7 @@ namespace Sample.FunctionApp
     /// </summary>
     public static class SampleHttpTrigger1
     {
-        public static IFunctionFactory Factory = new FunctionFactory(new AppModule());
+        public static IFunctionFactory Factory { get; set; } = new FunctionFactory(new AppModule());
 
         /// <summary>
         /// Gets the sample response.
