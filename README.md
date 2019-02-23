@@ -5,8 +5,8 @@ This provides sample codes how Azure Functions omit static modifier and can use 
 
 ## More Readings ##
 
-* 한국어: TBD
-* English: TBD
+* 한국어: [새롭게 톺아보는 애저 펑션 의존성 관리](https://blog.aliencube.org/ko/2019/02/22/revising-dependency-injections-on-azure-functions-v2/)
+* English: [Performing Constructor Injections on Azure Functions V2](https://devkimchi.com/2019/02/22/performing-constructor-injections-on-azure-functions-v2/)
 
 
 ## Contribution ##
